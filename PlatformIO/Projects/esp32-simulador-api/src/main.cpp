@@ -16,8 +16,8 @@ const int FREQ_PWM       = 5000;
 const int RESOLUCAO_PWM  = 8;
 
 // ================= Configurações de Rede =================
-const char* ssid = "JOSE";
-const char* password = "19Do26.,";
+const char* ssid = "sua_rede";
+const char* password = "sua_senha";
 
 // Endereço HTTPS público da sua API
 const char* serverUrl = "https://api-irrigacao.online/api/telemetry";
