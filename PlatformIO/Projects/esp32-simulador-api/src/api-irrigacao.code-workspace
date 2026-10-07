@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Área de trabalho/api-irrigacao"
+		},
+		{
+			"name": "esp32-simulador-api",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
